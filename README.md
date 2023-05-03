@@ -1,5 +1,4 @@
-# <span style="color:blue">Título do seu projeto</span>
-# PANDORA
+# <span style="color:blue"># PANDORA</span>
 
 Descrição do seu projeto em uma ou duas frases.
 
