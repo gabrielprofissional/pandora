@@ -17,3 +17,4 @@ The plugins themselves will be able to create an entry menu that connects all pl
 - PHOTON
 
 ![Screenshot_1](https://user-images.githubusercontent.com/101426136/235821575-cebb0582-26c2-4f51-a2da-6ab14954f193.png)
+![Screenshot_2](https://user-images.githubusercontent.com/101426136/235821653-dbddadb8-ae28-4073-b642-22ffa8aadeb1.png)
