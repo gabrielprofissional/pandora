@@ -1,28 +1,19 @@
-<span style="color:blue"># PANDORA</span>
+# PANDORA
 
-Descrição do seu projeto em uma ou duas frases.
+pandora Its a game under development in C#, within Unity, focused on first-person multiplayer, i made a multiplayer game using Photon.
 
-## Como usar
+## How to use
 
-Explique aqui como os usuários podem instalar e usar seu projeto. Use listas e exemplos de código para tornar as instruções claras e fáceis de seguir.
+All plugins are provided above, just use them as you prefer.
 
-## Funcionalidades
+## Functionalities
 
-Descreva aqui as funcionalidades principais do seu projeto. Use listas e exemplos de código para tornar a descrição mais clara.
+The plugins themselves will be able to create an entry menu that connects all players to the server of their choice via the Photon network. There is also a plugin for player movement.
 
-## Tecnologias
+## Technologies
 
-Liste aqui as tecnologias que você usou para desenvolver seu projeto. Por exemplo:
+- C#
+- UNITY
+- PHOTON
 
-- HTML
-- CSS
-- JavaScript
-- React
-
-## Contribuição
-
-Explique como outras pessoas podem contribuir para o seu projeto. Isso pode incluir informações sobre como criar problemas (issues), enviar solicitações de pull requests e diretrizes de contribuição.
-
-## Licença
-
-Escolha uma licença para o seu projeto. Você pode encontrar mais informações sobre as licenças disponíveis no site do [Choose a License](https://choosealicense.com/).
+![Screenshot_1](https://user-images.githubusercontent.com/101426136/235821575-cebb0582-26c2-4f51-a2da-6ab14954f193.png)
